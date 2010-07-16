@@ -30,7 +30,7 @@ rm -rf ${RPM_BUILD_ROOT}
 
 %files
 %defattr(-,root,root)
-/usr/lib/site_ruby/1.8/i386-linux-gnu/shapelib.so
+/Library/Ruby/Site/1.8/universal-darwin10.0/shapelib.so
 
 %changelog
 * Tue Mar 07 2006 prasinos <prasinos@users.sourceforge.net> (0.6)
